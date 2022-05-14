@@ -1,5 +1,6 @@
 # Site settings
-baseurl = "https://binary-repositories-comparison.github.io/"
+# baseurl = "https://binary-repositories-comparison.github.io/"
+baseurl = ""
 languageCode = "en-us"
 title = "Binary Repository Manager Feature Matrix"
 theme = "hugo-freelancer-theme"
